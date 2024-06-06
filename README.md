@@ -7,7 +7,6 @@ This project is a minimalist web interface created using HTML and CSS. The prima
 ## Features
 
 - Clean Design: A straightforward, visually appealing layout that emphasizes usability and clarity.
-- Responsive Layout: Optimized for different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 - Easy Customization: Simple HTML and CSS structure that allows for easy modifications and extensions.
 - Lightweight: Minimal dependencies and fast loading times, providing a smooth user experience.
 
