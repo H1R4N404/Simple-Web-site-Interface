@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1.Clone the repository:
 ```bash
-  https://github.com/H1R4N404/Simple-Web-site-Interface.git
+  git clone https://github.com/H1R4N404/Simple-Web-site-Interface.git
 ```
 2.Navigate to the project directory: 
 ```bash
