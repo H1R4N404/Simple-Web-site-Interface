@@ -24,11 +24,11 @@ To run this project locally, follow these steps:
 
 1.Clone the repository:
 ```bash
-  git clone https://github.com/H1R4N404/simple-web-interface.git
+  git clone https://github.com/H1R4N404/simple-web-interface
 ```
 2.Navigate to the project directory: 
 ```bash
-  cd simple-web-interface.git
+  cd simple-web-interface
 ```
 3.Open index.html in your web browser:
 ```bash
